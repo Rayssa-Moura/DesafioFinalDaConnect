@@ -2,7 +2,7 @@ function QuemSomos () {
   return (
     <>
     
-    <h2> Quem somos </h2>
+    <h2> Quem Somos </h2>
     </>
   )
 }
