@@ -1,0 +1,27 @@
+.containerTelaInicial {
+  // background-color: rgb(209, 209, 201);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  div {
+   // border: solid red;
+    width: 50%;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    h1 {
+      font-size: 4.5rem;
+      width: 100%;
+      //border: solid purple;
+      color: #205691;
+      margin-bottom: 0rem;
+      padding: 5%;
+    }
+    p {
+      font-size: 1.2rem;
+      width: 85%;
+      padding: 5%;
+    }
+  }
+}
